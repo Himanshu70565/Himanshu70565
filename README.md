@@ -6,8 +6,8 @@
 
 - 🔭 I’m currently working as Mentee for Uplift Project
 - 🌱 I’m currently learning React
-- 🤔 I’m looking for help with AWS
 <!--
+- 🤔 I’m looking for help with AWS
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about C
 - 📫 How to reach me: ...
