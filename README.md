@@ -15,10 +15,4 @@
    <img src=https://img.shields.io/badge/NeoAlgo-Contributor-brightgreen>
 </a>
 
-#### Link's to CP Profiles : 
-
-<a href="https://www.codechef.com/users/vishu_9922">Codechef</a>
-<br>
-<a href="https://www.hackerearth.com/@Himanshu_9922">Hackerearth</a>
-
 ![](https://komarev.com/ghpvc/?username=Himanshu70565&label=VISITOR+COUNTER)
