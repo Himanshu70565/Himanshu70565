@@ -1,5 +1,5 @@
 ### Hi everyone! 👋
-<p>This is Himanshu. I am a 2021 grad studying Computer Science at DCR University of Science and Technology,Haryana. I am a former Student Developer at Crio.do.Currently , I am looking for SDE role in a Product based Startup.</p>
+<p>This is Himanshu. I am a 2021 grad studying Computer Science at DCR University of Science and Technology,Haryana. I am a former Student Developer at Crio.do.Currently.</p>
 
 ### Portfolio : https://criodo.github.io/Crio-Launch-Feb-2020-jadgehimanshu1999/
 
