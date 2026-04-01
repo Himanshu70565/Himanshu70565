@@ -32,13 +32,8 @@ I have 4.5+ years of experience as a Software Engineer, previously working at Ya
 
 ---
 
-### 📊 GitHub Stats
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu70565&count_private=true&show_icons=true&theme=radical)
-
----
-
 ### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/himanshujudge/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/himanshujudge9922/)
 - 📧 Email: jhimanshu9922@gmail.com
 
 ---
